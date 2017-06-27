@@ -1,6 +1,6 @@
 /*
  Base Code for 16X2 LCD
- Developed by- Harkrishan Singh (harkrishan@steamlabs.in)
+ Tested & Improvised by - Harkrishan Singh (harkrishan@steamlabs.in)
 */
 
 /*
