@@ -1,6 +1,6 @@
 /*
  Base Code for HC05-Bluetooth Module
- Developed by- Harkrishan Singh (harkrishan@steamlabs.in)
+ Tested & Improvised - Harkrishan Singh (harkrishan@steamlabs.in)
 */
 
 /*
