@@ -1,6 +1,6 @@
 /*
  Base Code for HC-SR04 Ultrasonic Sensor
- Developed by- Harkrishan Singh (harkrishan@steamlabs.in)
+ Tested & Improvised by - Harkrishan Singh (harkrishan@steamlabs.in)
 */
 
 /*
