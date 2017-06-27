@@ -1,6 +1,6 @@
 /*
  Base Code for LCD Shield
- Developed by- Harkrishan Singh (harkrishan@steamlabs.in)
+ Tested & Improvised by - Harkrishan Singh (harkrishan@steamlabs.in)
 */
 
 #include <LiquidCrystal.h>
